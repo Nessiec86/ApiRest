@@ -10,5 +10,5 @@ No he podido autenticar la conexión con ninguno de los métodos ofrecidos por G
 
 - Esta configurado en modo Debug.
 
-- No es posible recuperar las variables desde .env con getenv(). Por este motivo están declaradas directamente.
+- No pude recuperar las variables desde .env con getenv(). Por este motivo están declaradas directamente.
 
